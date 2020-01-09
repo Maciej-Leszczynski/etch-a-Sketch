@@ -1,5 +1,24 @@
 * {
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    text-align: center;
+}
+
+#control {
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+}
+
+#control button {
+    margin: auto;
+    padding: 10px;
+    font-weight: bold;
+    border: 2px solid black;
 }
 
 #grid {
