@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+
+#grid {
+    border: solid 1px black;
+    height: 502px;
+    width: 502px;
+    margin: auto;
+}
+
+.boxes {
+    border: 0.1px solid black;
+    width: 6.25%;
+    height: 6.25%;
+    float: left;
+}
+    
